@@ -17,7 +17,8 @@ Dual-stack enterprise network security simulation using Cisco Packet Tracer
 
 ## Network Topology
 
-![Topology](topology.png)
+<img width="658" height="340" alt="Topology" src="https://github.com/user-attachments/assets/7fe1720f-6bb4-47f7-b9d5-a9c89d87cafa" />
+
 
 ## Validation
 - IPv4/IPv6 Ping Tests
