@@ -1,5 +1,5 @@
 
-# Enterprise Network Security Lab
+# Dual-Stack IPV4/IPV6 High Availability Network Design
 Dual-stack enterprise network security simulation using Cisco Packet Tracer
 
 ## Features
